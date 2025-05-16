@@ -24,7 +24,7 @@ To run the above code, the following software packages need to be installed:
   + [Wavelet Transforms in Pytorch](https://github.com/fbcotter/pytorch_wavelets)
   + [Wavelet Transform Toolbox](https://github.com/v0lta/PyTorch-Wavelet-Toolbox)
 
-Copy all the data in the 'data' folder and place the 'Data' folder in the parent folder where the code is located. If the location of the data changes, the path of the data should be given in the code.
+Copy all the data in the 'data' folder and place the 'data' folder in the parent folder where the code is located. If the location of the data changes, the path of the data should be given in the code.
 
 ## Testing
 To perform predictions on the new input, you can use 'UWNO_testing_(.) .py 'code. The training model for generating results for the U-WNO paper can be found in the following link:
